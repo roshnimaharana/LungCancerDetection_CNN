@@ -68,6 +68,24 @@ The dataset should be organized into training (`train`), validation (`valid`), a
 <li>It provides feedback on the prediction (Normal or Cancerous).</li>
 
 
+## Dependencies
+
+The project requires the following libraries:
+- Python 3.x
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- scikit-learn
+- tensorflow
+- keras
+
+You can install the required libraries using the following command:
+
+```bash
+pip install pandas numpy seaborn matplotlib scikit-learn tensorflow keras
+```
+
 
 
 ## Acknowledgements
@@ -82,5 +100,6 @@ We acknowledge and thank the contributors to the [Chest CT Scan Images Dataset](
 <li>Run the Flask app: python app.py</li>
 <li>Access the web interface in your browser at http://localhost:5000</li>
 <li>Make sure h5 path is correct in 'app.py'</li>
+<li>frontend templets are shown in templet1 and templet2</li>
 
 
