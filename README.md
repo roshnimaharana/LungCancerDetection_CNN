@@ -13,5 +13,5 @@
 <li>Predictions are displayed on the web interface.</li>
   
 ## Web Interface
-<li>The web interface (Roshni.html) allows users to upload CT scan images and receive predictions for lung cancer.</li>
+<li>The web interface (roshni.html) allows users to upload CT scan images and receive predictions for lung cancer.</li>
 <li>It provides feedback on the prediction (Normal or Cancerous).</li>
