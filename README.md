@@ -15,3 +15,8 @@
 ## Web Interface
 <li>The web interface (roshni.html) allows users to upload CT scan images and receive predictions for lung cancer.</li>
 <li>It provides feedback on the prediction (Normal or Cancerous).</li>
+
+## Usage
+<li>Run the Flask app: python app.py</li>
+<li>Access the web interface in your browser at http://localhost:5000</li>
+<li>Make sure h5 path is correct in 'app.py'</li>
