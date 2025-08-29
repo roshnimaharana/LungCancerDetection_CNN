@@ -10,5 +10,5 @@ The Flask app (app.py) serves as the backend for making predictions.
 It loads the trained model and preprocesses images uploaded by users for prediction.
 Predictions are displayed on the web interface.
 ## Web Interface
-The web interface (index.html) allows users to upload CT scan images and receive predictions for lung cancer.
+The web interface (Roshni.html) allows users to upload CT scan images and receive predictions for lung cancer.
 It provides feedback on the prediction (Normal or Cancerous).
