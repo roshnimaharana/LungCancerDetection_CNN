@@ -1,7 +1,7 @@
 # LungCancerDetection_CNN
 
 <li>This project aims to detect lung cancer using a Convolutional Neural Network (CNN) model deployed with Flask.</li>
-<li>It includes a Jupyter notebook (lung_cancer_detection.ipynb) for model training and a Flask app (app.py) for making predictions. Additionally, an HTML template (index.html) is provided for the web interface.</li>
+<li>It includes a Jupyter notebook (lung_cancer_detection.ipynb) for model training and a Flask app (app.py) for making predictions. Additionally, an HTML template (roshni.html) is provided for the web interface.</li>
 
 ## Model
 <li>The model is trained using the notebook lung_cancer_detection.ipynb.</li>
